@@ -594,7 +594,7 @@ VITE_API_URL=http://localhost:5000/api
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Ethara_Full_Stack.git
+git clone https://github.com/Jayakrishna-1817/Task_Traker.git
 cd Ethara_Full_Stack
 ```
 
