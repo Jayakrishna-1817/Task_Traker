@@ -49,8 +49,8 @@ The application was built to solve the common problem of ad-hoc team coordinatio
 
 | Service    | URL                                          |
 |------------|----------------------------------------------|
-| Frontend   | https://tasktraker-production.up.railway.app         |
-| Backend API| https://keen-freedom-production-0c9c.up.railway.app/api      |
+| **Website**| [https://tasktraker-production.up.railway.app/](https://tasktraker-production.up.railway.app/) |
+| **GitHub** | [https://github.com/Jayakrishna-1817/Task_Traker](https://github.com/Jayakrishna-1817/Task_Traker) |
 
 ---
 
@@ -708,3 +708,5 @@ Built as a full-stack assessment project demonstrating:
 - Axios service layer with interceptors
 - Responsive UI with a custom CSS design system
 - Cloud deployment with Railway and MongoDB Atlas
+
+---
