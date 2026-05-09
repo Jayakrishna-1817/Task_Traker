@@ -49,8 +49,8 @@ The application was built to solve the common problem of ad-hoc team coordinatio
 
 | Service    | URL                                          |
 |------------|----------------------------------------------|
-| Frontend   | https://your-frontend.up.railway.app         |
-| Backend API| https://your-backend.up.railway.app/api      |
+| Frontend   | https://tasktraker-production.up.railway.app         |
+| Backend API| https://keen-freedom-production-0c9c.up.railway.app/api      |
 
 ---
 
