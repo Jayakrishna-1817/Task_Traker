@@ -49,7 +49,7 @@ The application was built to solve the common problem of ad-hoc team coordinatio
 
 | Service    | URL                                          |
 |------------|----------------------------------------------|
-| **Website**| [https://tasktraker-production.up.railway.app/](https://tasktraker-production.up.railway.app/) |
+| **Website**| [https://task-traker-jet.vercel.app/](https://task-traker-jet.vercel.app/) |
 | **GitHub** | [https://github.com/Jayakrishna-1817/Task_Traker](https://github.com/Jayakrishna-1817/Task_Traker) |
 
 ---
